@@ -1,5 +1,5 @@
 # Projects
-> Here, we are providing a list curated by the community of exercises and projects to practice and reinforce the skills we try to master.
+> Here, we are providing a list of projects done by the community for the final projects. You may use these as inspirations for your own final project!
 
 Projects created by OSSU's students for each course of our [**Computer Science**](https://github.com/ossu/computer-science) curriculum.
 
@@ -39,3 +39,4 @@ Project Title | Description | Author(s) | Repository
 Project Title | Description | Author(s) | Repository
 :-- | :-- | :--: | :--
 Observatory | Interactively displays temperatures and deviations all around the world from 1975 to 2015 | [spamegg](https://github.com/spamegg1) | [ScalaCapstone](https://github.com/spamegg1/ScalaCapstone)
+Cloud Data Processing | Querying airline traffic data with batch and stream processing on cloud services | [MartinOvington](https://github.com/MartinOvington) | [CloudCapstone](https://github.com/MartinOvington/cloud-specialization)
